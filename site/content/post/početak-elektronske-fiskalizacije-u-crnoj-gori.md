@@ -1,8 +1,8 @@
 ---
 title: Početak elektronske fiskalizacije u Crnoj Gori
 date: 2020-10-08T21:27:03.681Z
-description: Da li ste znali da će od 01. januara 2021. godine početi da se
-  primjenjuje Zakon o elektronskoj fiskalizaciji u prometu proizvoda i usluga?
+description: "Da li ste znali da će od 01. januara 2021. godine početi da se
+  primjenjuje Zakon o elektronskoj fiskalizaciji u prometu proizvoda i usluga? "
 image: img/hphone.png
 ---
 Elektronska fiskalizacija će se odnositi ne samo na promet koji se evidentira uzgotovinsko plaćanje, već i na promet koji se vrši po fakturama, odnosno u bezgotovinskom sistemu.

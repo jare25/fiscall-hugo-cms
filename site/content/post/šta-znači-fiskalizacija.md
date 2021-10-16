@@ -8,7 +8,7 @@ description: >-
 
 
   Fiskalizacija znači da se svi izdati računi, kako gotovinski tako i bezgotovinski, evidentiraju u bazi podataka Poreske uprave. Fiskalizacija računa se vrši fiskalnim servisom koji je odgovoran za komunikaciju između poreskih obveznika, koji izdaju račune i Poreske uprave, koja obrađuje primljene poruke.
-image: img/hbg.jpg
+image: img/hphone.png
 ---
 ### **Ko su obveznici fiskalizacije?**
 

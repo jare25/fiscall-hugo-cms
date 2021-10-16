@@ -1,6 +1,6 @@
 ---
-title: Kontakt
-logo: img/logo.png
+title: "Contact"
+logo: "/img/logo.svg"
 contact_entries:
   - heading: Lokacija
     text: |-

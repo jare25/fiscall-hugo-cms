@@ -1,15 +1,13 @@
 ---
 title: Šta znači fiskalizacija?
 date: 2020-12-27T22:58:00.921Z
-description: >-
-  Prema novim pravilima, svaki poreski obveznik koji je obavezan da izdaje
-  račune i vrši proces fiskalizacije, obavezan je po zakonu da fiskalizuje sve
-  račune za gotovinske i bezgotovinske transakcije.
-
-
-  Fiskalizacija znači da se svi izdati računi, kako gotovinski tako i bezgotovinski, evidentiraju u bazi podataka Poreske uprave. Fiskalizacija računa se vrši fiskalnim servisom koji je odgovoran za komunikaciju između poreskih obveznika, koji izdaju račune i Poreske uprave, koja obrađuje primljene poruke.
+description: Prema novim pravilima, svaki poreski obveznik koji je obavezan da
+  izdaje račune i vrši proces fiskalizacije, obavezan je po zakonu da
+  fiskalizuje sve račune za gotovinske i bezgotovinske transakcije.
 image: img/hphone.png
 ---
+Fiskalizacija znači da se svi izdati računi, kako gotovinski tako i bezgotovinski, evidentiraju u bazi podataka Poreske uprave. Fiskalizacija računa se vrši fiskalnim servisom koji je odgovoran za komunikaciju između poreskih obveznika, koji izdaju račune i Poreske uprave, koja obrađuje primljene poruke.
+
 ### **Ko su obveznici fiskalizacije?**
 
 Obveznik fiskalizacije je:

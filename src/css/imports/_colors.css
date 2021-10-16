@@ -75,6 +75,9 @@
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
   & :first-child {
-    box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
+    /*box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);*/
+      -webkit-text-stroke: 1px #ffffff;
+      font-family: sans;
+      color: #1571bc;
   }
 }

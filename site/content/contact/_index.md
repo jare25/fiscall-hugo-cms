@@ -3,9 +3,7 @@ title: "Contact"
 logo: "/img/logo.png"
 contact_entries:
   - heading: Lokacija
-    text: |-
-      Jola Piletića, 81400 Nikšić
-      tel: 040 280 678
+    text: "Jola Piletića, 81400 Nikšić; tel: 040 280 678"
   - heading: Radno vrijeme
     text: "Ponedeljak – Subota: 8:00 – 16:00"
 ---

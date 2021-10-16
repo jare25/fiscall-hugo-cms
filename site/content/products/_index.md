@@ -1,8 +1,8 @@
 ---
-title: Our Coffee
+title: Fiscall - Moj siguran račun
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Šta nudimo?
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -70,7 +70,7 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Mjesečna pretplata
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each

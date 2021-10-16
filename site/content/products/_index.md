@@ -1,7 +1,7 @@
 ---
 title: Fiscall - Moj siguran račun
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/hbg.jpg
 heading: Šta nudimo?
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their

@@ -1,19 +1,18 @@
 ---
 title: Kontakt
-logo: /img/logo.svg
+logo: img/logo.png
 contact_entries:
-  - heading: Location
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Lokacija
+    text: |-
+      Jola Piletića, 81400 Nikšić
+      tel: 040 280 678
+  - heading: Radno vrijeme
+    text: "Ponedeljak – Subota: 8:00 – 16:00"
 ---
+Bilo bi nam drago kontaktirati vas i čuti vaše ideje i pitanja. Nastojimo neprestano rasti i poboljšavati se, a vaše povratne informacije su nam dragocjene.
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+<h3 class="f4 b lh-title mb2">Kontakt</h3>
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Takođe možete koristiti formu ispod za sva pitanja o elektronskoj fiskalizaciji
+dostupnost, mjesečne pretplate i zakazivanje sesije jedan na jedan
+sa našim operaterima. Javite nam se!

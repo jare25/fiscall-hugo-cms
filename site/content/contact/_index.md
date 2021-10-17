@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontakt
 logo: /img/logo.png
 contact_entries:
   - heading: Lokacija

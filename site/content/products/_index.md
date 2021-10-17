@@ -39,9 +39,7 @@ testimonials: []
 full_image: img/benifitsbg.jpg
 pricing:
   heading: Mjesečna pretplata
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  description: Garantujemo najbolji odnos cijene i kvaliteta!
   plans:
     - description: Idealan je za male trgovine, butike, apoteke, ordinacije, kurirske
         službe, zanatske radnje, frizerske i kozmetičke salone, advokatske
@@ -62,7 +60,7 @@ pricing:
     - plan: Fiscall Web
       price: "13.99"
       description: "Idealan je za sve firme koje izdaju samo bezgotovinske račune:
-        špedicije, auto prevoznike, knjigovdstvene agencije..."
+        špedicije, auto prevoznike, knjigovodstvene agencije..."
       items:
         - Izdavanje bezgotovinskih računa
         - Fiskalizacija računa

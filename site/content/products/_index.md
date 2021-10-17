@@ -1,6 +1,6 @@
 ---
 title: Fiscall - Moj siguran račun
-image: /img/hbg.jpg
+image: /img/hbg.webp
 heading: Predstavljamo vam Fiscall
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee

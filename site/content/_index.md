@@ -2,7 +2,7 @@
 title: Fiscall - Elektronska fiskalizacija
 subtitle: Najjednostavniji način da Vaš biznis uključite u proces elektronske
   ﬁskalizacije
-image: img/hbg.jpg
+image: img/hbg.webp
 blurb:
   heading: Zašto Fiscall?
   text: Fiscall prije svega obezbjeđuje sigurnost i dostupnost podataka. Vaši

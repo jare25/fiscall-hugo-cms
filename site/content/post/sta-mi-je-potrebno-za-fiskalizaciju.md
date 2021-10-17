@@ -31,16 +31,16 @@ Tekst Zakona o fiskalizaciji u prometu proizvoda i usluga možete pogledati [ov
 Odredbe Zakona o fiskalizaciji u prometu proizvoda i usluga bliže se uređuju *pravilnicima,* koji su objavljeni u Službenom listu CG br. 054/20 od 08.06.2020. godine. To su:
 
 \- Pravilnik o sadržaju prijave oznake operatera fiskalnog servisa, načinu generisanja identifikacionog koda obveznika fiskalizacije i načinu dostavljanja podataka i generisanja oznake o poslovnim prostorima obveznika fiskalizacije\
-\
+
 - Pravilnik o sadržaju i načinu ovjere knjige računa, načinu dostavljanja računa bez jedinstvenog identifikacionog koda računa i načinu provjere računa za koji je izvršen postupak fiskalizacije\
-\
+
 - Pravilnik o obliku i strukturi poruka i sigurnosnim mehanizmima za razmjenu poruka fiskalnog računa i načinu dostavljanja računa koji su izdati u slučaju prekida stalne internet veze.
 
-Pravilnici se mogu preuzeti [ovdje](http://www.poreskauprava.gov.me/vijesti/226157/SAOPsTENJE-Pravilnici-kojima-su-blize-ureduju-odredbe-Zakona-o-fiskalizaciji-u-prometu-proizvoda-i-usluga-objavljeni-u-Sluzbenom.html)
+Pravilnici se mogu preuzeti [ovdje](http://www.poreskauprava.gov.me/vijesti/226157/SAOPsTENJE-Pravilnici-kojima-su-blize-ureduju-odredbe-Zakona-o-fiskalizaciji-u-prometu-proizvoda-i-usluga-objavljeni-u-Sluzbenom.html)
 
 **DOKUMENTACIJA**
 
-*Tehnička i Funkcionalna specifikacija* za krajnje korisnike koju je objavila Poreska uprava, a koja će poreskim obveznicima omogućiti da prilagode svoje sisteme za prenos podataka o izvršenom prometu shodno predmetnom Zakonu, može se preuzeti u nastavku:
+*Tehnička i Funkcionalna specifikacija* za krajnje korisnike koju je objavila Poreska uprava, a koja će poreskim obveznicima omogućiti da prilagode svoje sisteme za prenos podataka o izvršenom prometu shodno predmetnom Zakonu, može se preuzeti u nastavku:
 
 * [Fiskalni servis - Funkcionalna specifikacija](https://upravaprihoda.gov.me/ResourceManager/FileDownload.aspx?rId=434592&rType=2)
 * [Fiskalni servis - Tehnička specifikacija](https://upravaprihoda.gov.me/ResourceManager/FileDownload.aspx?rId=434593&rType=2)

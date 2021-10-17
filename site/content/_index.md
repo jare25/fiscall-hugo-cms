@@ -9,11 +9,16 @@ blurb:
     podaci se čuvaju na našim bezbjednim serverima. U slučaju bilo kakvog kvara
     na vašoj opremi, podaci ostaju sačuvani na udaljenom serveru.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Šta je Fiscall?
+  text: >
+    Fiscall je aplikacija koja omogućava elektronsku ﬁskalizaciju vaših računa.
+    Fiscall omogućava evidenciju računa, depozita, artikala, partnera,
+    optimizovanu pretragu, obavezne izvještaje, kao i izvještaje koji će vam
+    olakšati poslovanje i pružiti podršku u odlučivanju. Naša aplikacija
+    funkcioniše na cloud platformi i time vaš telefon, tablet ili računar
+    postaje vaša fiskalna kasa a vaši podaci bezbjedni. Kreirajte, fiskalizujte
+    i štampajte račune brzo i jednostavno. Pratite i analizirajte poslovanje
+    vašeg objekta bilo kad i bilo gdje.
 products: []
 values:
   heading: " "

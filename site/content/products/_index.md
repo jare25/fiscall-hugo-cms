@@ -2,7 +2,7 @@
 title: Fiscall - Moj siguran račun
 type: products
 image: /img/hbg.jpg
-heading: Šta nudimo?
+heading: Predstavljamo vam Fiscall
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -37,12 +37,9 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Predstavljamo vam Fiscall
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Fiscall je aplikacija koja omogućava elektronsku ﬁskalizaciju vaših računa. Fiscall omogućava evidenciju računa, depozita, artikala, partnera, optimizovanu pretragu, obavezne izvještaje, kao i izvještaje koji će vam olakšati poslovanje i pružiti podršku u odlučivanju. Naša aplikacija funkcioniše na cloud platformi i time vaš telefon, tablet ili računar postaje vaša fiskalna kasa a vaši podaci bezbjedni. Kreirajte, fiskalizujte i štampajte račune brzo i jednostavno. Pratite i analizirajte poslovanje vašeg objekta bilo kad i bilo gdje.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -76,27 +73,20 @@ pricing:
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Idealan je za male trgovine, prodavnice, butike, kioske, apoteke, ordinacije, taksiste, kurirske službe, zanatske radnje, frizerske i kozmetičke salone, advokatske kancelarije, notare...
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Izdavanje gotovinskih računa
+        - Izdavanje bezgotovinskih računa
+        - Fiskalizacija računa
+        - Storniranje računa
+        - Unos depozita
+        - Baza artikala
+        - Lista partnera
+        - Optimizovana pretraga
+        - Kompletni izvještaji
+        - Bez ograničenja u broju računa, artikala, partnera!
+      plan: Osnovni paket
+      price: 13.99 
 ---
 
 

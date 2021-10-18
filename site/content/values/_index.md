@@ -1,6 +1,6 @@
 ---
 title: O nama
-image: img/about-phone.png
+image: img/hbg.webp
 values:
   - heading: Rubik
     text: >
@@ -22,5 +22,5 @@ values:
 
 
       Pretvaranje ideje u stvarnost je naš moto.
-    imageUrl: img/call-centar.png
+    imageUrl: img/rubik_logo_small_tr.png
 ---

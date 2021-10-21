@@ -1,5 +1,5 @@
 ---
-title: Fiscall - Elektronska fiskalizacija
+title: Elektronska fiskalizacija Crna Gora
 subtitle: Najjednostavniji način da Vaš biznis uključite u proces elektronske
   ﬁskalizacije
 image: img/hbg.webp

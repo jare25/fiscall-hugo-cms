@@ -19,12 +19,8 @@ intro:
     postaje vaša fiskalna kasa a vaši podaci bezbjedni. Kreirajte, fiskalizujte
     i štampajte račune brzo i jednostavno. Pratite i analizirajte poslovanje
     vašeg objekta bilo kad i bilo gdje.
-products:
-  - image: img/about-phone.png
-    text: Fiscall Mobile
-  - image: img/web.webp
-    text: Fiscall Web
+products: []
 values:
-  heading: " "
+  heading: "  "
   text: " "
 ---

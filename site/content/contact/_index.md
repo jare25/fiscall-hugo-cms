@@ -9,12 +9,8 @@ contact_entries:
 ---
 Bilo bi nam drago kontaktirati vas i čuti vaše ideje i pitanja. Nastojimo neprestano rasti i poboljšavati se, a vaše povratne informacije su nam dragocjene.
 
-<h3 class="f4 b lh-title mb2">Kontakt</h3>
+# Kontakt
 
 #### +382 69 321 532
 
 #### info@fiscall.me
-
-Takođe možete koristiti formu ispod za sva pitanja o elektronskoj fiskalizaciji
-dostupnost, mjesečne pretplate i zakazivanje sesije jedan na jedan
-sa našim operaterima. Javite nam se!

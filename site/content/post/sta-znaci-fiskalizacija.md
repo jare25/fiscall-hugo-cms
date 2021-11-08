@@ -1,5 +1,5 @@
 ---
-title: Šta znači fiskalizacija?
+title: Elektronska fiskalizacija
 date: 2020-12-27T22:58:00.921Z
 description: Prema novim pravilima, svaki poreski obveznik koji je obavezan da
   izdaje račune i vrši proces fiskalizacije, obavezan je po zakonu da
